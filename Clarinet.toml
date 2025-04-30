@@ -15,6 +15,10 @@ path = 'contracts/entity-verification.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.sanctions-list]
+path = 'contracts/sanctions-list.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 

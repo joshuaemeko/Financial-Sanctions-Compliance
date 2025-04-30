@@ -7,3 +7,5 @@ J
 contracts/audit-trail.clar,b/6/b6671a06cd13e1dc7096347f063b75b96e221363
 R
 "contracts/entity-verification.clar,6/6/660a74c2729ef5ed0792e040998f714055016c6e
+M
+contracts/sanctions-list.clar,c/c/cc52828200132d59a51745ef872ed54e9304f816
